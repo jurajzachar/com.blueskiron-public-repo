@@ -8,15 +8,15 @@ Public repository for __com.blueskiron__ artifacts
   <repositories>
     ...
     <repository>
-      <id>your-repo-id</id>
-      <name>Your Repo Name</name>
+      <id>com.blueskiron-public-repo</id>
+      <name>com.blueskiron maven public</name>
       <releases>
         <enabled>true</enabled>
       </releases>
       <snapshots>
         <enabled>false</enabled>
-       </snapshots>
-       <url>https://raw.github.com/jurajzachar/com.blueskiron-public-repo.git/releases</url>
+      </snapshots>
+      <url>https://raw.github.com/jurajzachar/com.blueskiron-public-repo.git/releases</url>
     </repository>
     ...
  </repositories>
