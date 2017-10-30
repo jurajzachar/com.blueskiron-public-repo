@@ -18,5 +18,7 @@ Public repository for __com.blueskiron__ artifacts
        </snapshots>
        <url>https://raw.github.com/jurajzachar/com.blueskiron-public-repo.git/releases</url>
     </repository>
+    ...
+ </repositories>
 ...
 ```
