@@ -8,8 +8,9 @@ Public repository for __com.blueskiron__ artifacts
   <repositories>
     ...
     <repository>
-      <id>com.blueskiron-public-repo RELEASES</id>
-      <name>com.blueskiron maven public</name>
+      <id>com.blueskiron-public-repo-RELEASES</id>
+      <name>com.blueskiron public maven repo RELEASES</name>
+      <layout>default</layout>
       <releases>
         <enabled>true</enabled>
       </releases>
