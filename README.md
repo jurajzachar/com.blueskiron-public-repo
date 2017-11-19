@@ -1,4 +1,4 @@
-# com.blueskiron-public-repo
+# com.blueskiron-public-repo-RELEASES
 Public repository for __com.blueskiron__ artifacts
 
 # Usage
