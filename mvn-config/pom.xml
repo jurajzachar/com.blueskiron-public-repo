@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.blueskiron</groupId>
   <artifactId>mvn-config</artifactId>
-  <version>1.0.1-SNAPSHOT</version>
+  <version>1.0.0</version>
   <name>maven plugin configs</name>
 
   <properties>
