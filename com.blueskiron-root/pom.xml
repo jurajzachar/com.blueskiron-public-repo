@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.blueskiron</groupId>
   <artifactId>com.blueskiron-root</artifactId>
-  <version>1.0.1-SNAPSHOT</version>
+  <version>1.1.0</version>
   <packaging>pom</packaging>
   <name>Blueskiron Root</name>
   <description>Root of All Blueskiron Maven Projects</description>
@@ -23,7 +23,7 @@
     <!-- Blueskiron -->
     <pluginRepository>
       <id>com.bitpanda-releases</id>
-      <url>https://raw.github.com/jurajzachar/com.blueskiron-public-repo.git/releases</url>
+      <url>https://raw.githubusercontent.com/jurajzachar/com.blueskiron-public-repo/releases</url>
     </pluginRepository>
   </pluginRepositories>
 
@@ -131,7 +131,7 @@
       <snapshots>
         <enabled>false</enabled>
       </snapshots>
-      <url>https://raw.github.com/jurajzachar/com.blueskiron-public-repo.git/releases</url>
+      <url>https://raw.githubusercontent.com/jurajzachar/com.blueskiron-public-repo/releases</url>
     </repository>
     <!--snapshots -->
     <repository>
@@ -144,7 +144,7 @@
       <snapshots>
         <enabled>true</enabled>
       </snapshots>
-      <url>https://raw.github.com/jurajzachar/com.blueskiron-public-repo.git/snapshots</url>
+      <url>https://raw.githubusercontent.com/jurajzachar/com.blueskiron-public-repo/snapshots</url>
     </repository>
   </repositories>
 
