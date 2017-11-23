@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.blueskiron</groupId>
   <artifactId>com.blueskiron-root</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>Blueskiron Root</name>
   <description>Root of All Blueskiron Maven Projects</description>
