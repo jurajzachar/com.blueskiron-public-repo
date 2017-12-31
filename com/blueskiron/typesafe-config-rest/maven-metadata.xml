@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.blueskiron</groupId>
+  <artifactId>typesafe-config-rest</artifactId>
+  <versioning>
+    <versions>
+      <version>1.1.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20171231133852</lastUpdated>
+  </versioning>
+</metadata>
